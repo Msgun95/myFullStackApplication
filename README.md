@@ -1,0 +1,2 @@
+Bank System Application
+A full-stack project simulating basic banking operations, built with Java, Spring Boot, and React. It allows account management, transactions (deposit, withdrawal, transfer), secure authentication, and transaction history tracking. The application features backend support with MySQL, frontend integration with React.js, and containerized deployment using Docker for scalability and portability.
